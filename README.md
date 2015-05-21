@@ -3,7 +3,7 @@ text blaster android app
 
 Import button will look for a file named contacts_to_import.txt in the root directory.
 
-The format of contacts_to_import.txt contents is: <name>:<contactnum>
+The format of contacts_to_import.txt contents is: "name":"contactnum"
 
 Default contacts start with ~
 
