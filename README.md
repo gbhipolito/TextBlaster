@@ -11,7 +11,7 @@ When importing, current contacts will be replaced with the contacts in the conta
 
 Sample contacts_to_import.txt file:
 
-john wick:123421
+john wick:123421\n
 crash bandicoot:314952
 ~NASA:293942
 ~pizza delivery:2985839
